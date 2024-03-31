@@ -11,7 +11,12 @@ Die Kurse sind unter folgenden Links auf Replit zu finden.
 | [3](#3) | conditions | [Replit_Woche03](https://replit.com/@mayerhofermax/JavaGrundlagenKursWoche03)|
 | [4](#4) | loops | [Replit_Woche04](https://replit.com/@mayerhofermax/JavaGrundlagenKursWoche04)|
 | [5](#5) | classes, methods & attributes | [Replit_Woche05](https://replit.com/@mayerhofermax/JavaGrundlagenkursWoche05)|
-| [6](#6) | object oriented programming | |
+| [6](#6) | object oriented programming | [Replit_Woche06](https://replit.com/@mayerhofermax/JavaGrundlagenkursWoche06#Main.java) |
+| [7](#7) | | |
+| [8](#8) | | |
+| [9](#9) | | |
+| [10](#10) | ||
+
 
 ### Beschreibung
 #### [Erste Stunde:](#1)
@@ -28,6 +33,13 @@ erklären, bei allen zum laufen bringen)
 
 #### [Sechste Stunde:](#6)
 
+#### [Siebte Stunde:](#7)
+
+#### [Achte Stunde:](#8)
+
+#### [Neunte Stunde:](#9)
+
+#### [Zehnte Stunde:](#10)
 
 ### Feedback von aus dem Python-KI Kurs:
 - Aufgaben für schnellere Schülerinnen 
